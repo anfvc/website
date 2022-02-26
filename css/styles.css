@@ -40,7 +40,7 @@ hr {
   border-bottom: none;
   border-width: 5px;
   color: #99A799;
-  margin: 150px auto;
+  margin: 100px auto;
 }
 
 a {
@@ -80,7 +80,7 @@ a:hover {
 }
 
 .skill-row {
-  margin: 200px auto 200px auto;
+  margin: 100px auto 100px auto;
   width: 50%;
   text-align: left;
   line-height: 2;
@@ -101,13 +101,13 @@ a:hover {
 .controller {
   width: 20%;
   float: left;
-    margin-right: 50px;
+    margin-right: 30px;
 }
 
 .truck {
   width: 20%;
   float: right;
-  margin-right: 50px;
+  margin-right: 30px;
 }
 
 .contact-message {
